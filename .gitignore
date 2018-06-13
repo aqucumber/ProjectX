@@ -3,3 +3,4 @@
 tmp/*
 target/*
 .idea/
+logs/
